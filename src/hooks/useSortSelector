@@ -1,0 +1,11 @@
+import useData from "./useData";
+
+// interface Nome da interface {
+//   id: number;
+//   name: string;
+//   slug: string;
+// }
+
+const usePlatforms = () => useData<Nome da interface>("/platforms/lists/parents");
+
+export default useSortSelector;
